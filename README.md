@@ -1,43 +1,25 @@
-🌸 Iris Flower Classification
+Oasis Infobytes Data Science Internship Tasks
 
-This project is part of my Oasis Infobytes Internship. The goal is to classify iris flowers into their species using Machine Learning.
+This repository contains the projects I completed during my Oasis Infobytes Internship. Each task is based on real-world problems and solved using Python and Machine Learning.
 
-📌 Project Overview
+🔹 Task 1: Iris Flower Classification
 
-The Iris dataset contains measurements of three species of iris flowers: Setosa, Versicolor, and Virginica. The aim is to predict the species of a flower based on its features.
+A classic Machine Learning project where I trained a model to classify iris flowers into different species based on their measurements.
 
-Features:
+Used scikit-learn and visualized the data for better understanding.
 
-Sepal length
+🔹 Task 2: Spam Mail Prediction
 
-Sepal width
+Built a Machine Learning model to classify emails as Spam or Not Spam.
 
-Petal length
+Used Natural Language Processing (NLP) techniques like CountVectorizer and Naive Bayes classifier.
 
-Petal width
+Helps in filtering out unwanted emails effectively.
 
-Target:
+🔹 Task 3: Unemployment Analysis in India (Data Science)
 
-Species of the flower
+Analyzed unemployment data during Covid-19.
 
-🛠️ Tools & Libraries
+Used Pandas, Matplotlib, and Seaborn for data cleaning and visualization.
 
-Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn
-
-🔹 Steps Performed
-
-Loaded the dataset using Pandas.
-
-Performed exploratory data analysis (EDA) and checked for missing values.
-
-Visualized the data with scatter plots and pairplots.
-
-Built a K-Nearest Neighbors (KNN) classifier to predict species.
-
-Evaluated model performance using accuracy and train-test split.
-
-📊 Key Insights
-
-Petal length and petal width are the most important features for classification.
-
-The KNN model achieved high accuracy on the dataset.
+Found clear patterns showing the spike in unemployment during mid-2020.
